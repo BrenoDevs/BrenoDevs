@@ -3,7 +3,7 @@
 
 - Atualmente estudando linguagem SQL **MySQL e SQL Server**
 
-- Me pergunte sobre **MySQL,Power BI,Excel e SQL Server**
+- Me pergunte sobre **MySQL,Power BI,Excel e SQL Server e Tableau**
 
 - Você me acha através **Breno.procc@gmail.com**
 
