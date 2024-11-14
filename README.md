@@ -6,6 +6,7 @@
 - Me pergunte sobre **MySQL,Power BI,Excel e SQL Server e Tableau**
 
 - Você me acha através **Breno.procc@gmail.com**
+- <a href="https://public.tableau.com/app/profile/breno.rogrigues.costa/viz/CursoBsicoTableau_17314318425000/Painel2?publish=yes"/a>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
