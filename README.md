@@ -7,6 +7,7 @@
 
 - Você me acha através **Breno.procc@gmail.com**
 - <a href="https://public.tableau.com/app/profile/breno.rogrigues.costa/viz/CursoBsicoTableau_17314318425000/Painel2?publish=yes">Meu Perfil no Tableau Public</a>
+- <a href="https://app.powerbi.com/links/E1mU_Fh6zG?ctid=d193e68c-e53f-4610-a66d-56ff300fec7a&pbi_source=linkShare)">Minhas Publicações no Power BI</a>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
